@@ -1,5 +1,6 @@
 ## [v0.0.2](https://github.com/littleflute/pro-html5-games/edit/master/README.md)
 ## [ch01](ch01)
+## [【JavaScript】](https://littleflute.github.io/JavaScript/)
 
 # Apress Source Code
 
