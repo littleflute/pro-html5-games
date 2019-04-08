@@ -1,3 +1,6 @@
+## [v0.0.2](https://github.com/littleflute/pro-html5-games/edit/master/README.md)
+## [ch01](ch01)
+
 # Apress Source Code
 
 This repository accompanies [*Pro HTML5 Games*](http://www.apress.com/9781430247104) by Aditya Ravi Shankar (Apress, 2012).
