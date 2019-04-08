@@ -1,5 +1,5 @@
-## [v0.0.4](https://github.com/littleflute/pro-html5-games/edit/master/README.md)
-## [ch01](ch01) [ch02](9781430212345_ch02-code)
+## [v0.0.5](https://github.com/littleflute/pro-html5-games/edit/master/README.md)
+## [ch01](ch01) [ch02](9781430212345_ch02-code) [ch03](9781430212345_ch03-code)
 ## [【JavaScript】](https://littleflute.github.io/JavaScript/)
 
 # Apress Source Code
